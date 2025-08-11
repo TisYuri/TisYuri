@@ -32,7 +32,6 @@ Passionate about solving problems, building efficient solutions, and continuousl
 
 
 ## GitHub Stats
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=TisYuri&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TisYuri&layout=compact&theme=radical)
 
 ## Contact Me
