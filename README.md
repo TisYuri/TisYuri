@@ -1,6 +1,6 @@
 # Hi, I'm Yuri 👋
 
-🎯 Junior Java Developer | ☕ Spring Boot Enthusiast | 📊 Aspiring Data Analyst  
+🎯Java Developer | ☕ Spring Boot Enthusiast | 📊 Aspiring Data Analyst  
 Passionate about solving problems, building efficient solutions, and continuously learning.
 
 ## About Me
